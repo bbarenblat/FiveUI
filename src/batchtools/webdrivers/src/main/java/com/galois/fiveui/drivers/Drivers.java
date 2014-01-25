@@ -80,7 +80,7 @@ public class Drivers {
         FirefoxDriver driver;
         if (null == ffBinaryPath) {
             System.err
-                    .println("WARNING: Running essentially random version of FireFox!");
+                    .println("WARNING: Running essentially random version of Firefox!");
             System.err.println("         set a path to firefox with -D"
                     + FIREFOX_BIN_PATH + "=<path to firefox>");
             driver = new FirefoxDriver(profile);

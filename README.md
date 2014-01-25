@@ -10,7 +10,7 @@ Google Chrome. If you're familiar with browser extensions, you can
 quickly install FiveUI from the binaries:
 
  - Chrome: [fiveui.crx](http://galoisinc.github.com/FiveUI/binaries/fiveui.crx)
- - FireFox: [fiveui.xpi](http://galoisinc.github.com/FiveUI/binaries/fiveui.xpi)
+ - Firefox: [fiveui.xpi](http://galoisinc.github.com/FiveUI/binaries/fiveui.xpi)
 
 The [Installation Guide](doc/manual_src/install.md) describes the
 installation process for Firefox and Google Chrome.

@@ -22,9 +22,9 @@ options link on the extensions page, or through the options item on
 the context menu off of the FiveUI button (accessed by right-clicking
 on the FiveUI button).
 
-## Options in FireFox
+## Options in Firefox
 
-The options page in `FireFox` can be accessed via the FiveUI gear widget, which
+The options page in `Firefox` can be accessed via the FiveUI gear widget, which
 should be added in addition to the FiveUI widget when the addon is installed.
 Once clicked, a new tab should appear which serves as the options interface for
 the addon.
